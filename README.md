@@ -1,6 +1,6 @@
 # :metal::floppy_disk::metal:
 
-My name is Bálint Kiss. I'm a fan of Rust, C++, good coding practices, electric- and bass guitar, and retro gaming.
+[![My Skills](https://skillicons.dev/icons?i=cpp,rust,go,py,neovim,arch)](https://skillicons.dev)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=balintkissdev)](https://github.com/anuraghazra/github-readme-stats)
 
